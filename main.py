@@ -9,7 +9,7 @@ class gui:
     [sg.Button("Quit")]
 	]
 
-	window = sg.Window("imports", layout)
+	window = sg.Window("imports v1", layout)
 
 	while True:
 		event, values = window.read()
