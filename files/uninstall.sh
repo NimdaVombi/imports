@@ -1,1 +1,1 @@
-rm -rf imports
+rm -rf /imports
